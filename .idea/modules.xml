@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Add_Digits/Add_Digits.iml" filepath="$PROJECT_DIR$/Add_Digits/Add_Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Delete_Node_in_a_Linked_List/Delete_Node_in_a_Linked_List.iml" filepath="$PROJECT_DIR$/Delete_Node_in_a_Linked_List/Delete_Node_in_a_Linked_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maximum_Depth_of_Binary_Tree/Maximum_Depth_of_Binary_Tree.iml" filepath="$PROJECT_DIR$/Maximum_Depth_of_Binary_Tree/Maximum_Depth_of_Binary_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Move_Zeroes/Move_Zeroes.iml" filepath="$PROJECT_DIR$/Move_Zeroes/Move_Zeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-java.iml" filepath="$PROJECT_DIR$/leetcode-java.iml" />
     </modules>
   </component>
